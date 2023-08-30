@@ -1,0 +1,6 @@
+.vscode/*
+.env
+
+# Ignore train.csv and test.csv in the data folder
+code/data/train.csv
+code/data/test.csv
